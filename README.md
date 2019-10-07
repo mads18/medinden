@@ -3,7 +3,7 @@
 <body>
 <h1>Datos Personales </h1>
 <p>
-Mi nombre es Medin Denvers
+Mi nombre es Medin Denvers.
 Realice mis estudios primarios y secundarios en el colegio:
 <strong>Panama Height International Academy </strong>
 </p>
