@@ -15,8 +15,7 @@ Actualmente estudio en La Universidad Nacional de Panam&aacute; Licenciatura en 
 <p>
 Pueden encontrarme en Instagram como luxtea_18
 </p>
-
-<img src="C:\Users\denve\OneDrive\Escritorio\md.jpg" alt="md.jpg" width="200" height="200">
+<img src="\Escritorio\imagenes\md.jpg">
 </body>
 </html>
 
