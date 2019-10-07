@@ -1,5 +1,4 @@
 # medinden
-<!DOCTYPE html>
 <html>
 <body>
 <h1>Datos Personales </h1>
