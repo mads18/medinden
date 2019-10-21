@@ -17,12 +17,6 @@ Pueden encontrarme en Instagram como luxtea_18
   <img src="https://media1.giphy.com/media/28NHo0bbyWzjG/source.gif" width="50" height="50">
 </p>
 <a href="https://ibb.co/nmSxFcd"> <img src="https://i.ibb.co/NCzcMjD/md-jpg.jpg" alt="md-jpg" border="0" width="200" height="200"> </a>
-<input type="checkbox" class="auto" id="auto" checked>
-<label class="auto-rotate" for="auto">Auto &#x21bb;</label><br>
-<span class="anticlockwise">&#x2190;</span>
-<span class="clockwise">&#x2192;</span>
-<div class="rotate"></div>
-</body>
 </html>
 
 
