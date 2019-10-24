@@ -4,8 +4,12 @@
 <h1 style="color:blue;">Datos Personales </h1>
 <p>
 Mi nombre es Medin Denvers.
-Realice mis estudios primarios y secundarios en el colegio:
-<strong>Panama Height International Academy </strong>
+<h2 style="background-color:Tomato;" >Realice mis estudios</h2>
+<ul style="list-style-type:disc;">
+  <li>Primarios: Panama Height International Academy</li>
+  <li>Secundarios: Panama Height International Academy</li>
+  <li>Actualmente estudio Lic.Qu&iacutemica en la Universidad Nacional</li>
+</ul>  
 </p>
 
 <p>
@@ -14,10 +18,9 @@ Actualmente estudio en La Universidad Nacional de Panam&aacute; Licenciatura en 
 
 <p><u>Redes Sociales:</u>
 <address>
-<li>Correo:<a href="mailto:yilveth12@hotmail.com"> yilveth12@hotmail.com</a> 
 </li>
-<li>Instagram:<a href="https://www.instagram.com/kristell_coronado/"> Kristell_Coronado</a></li>
-<li>Facebook: <a href="https://www.facebook.com/yilveth.jacobcoronado?ref=bookmarks"> Yilveth Jacob Coronado</a></li>
+<li>Instagram:<a href="https://www.instagram.com/luxtea_18/?hl=es-la"> Medin Denvers</a></li>
+<li>Facebook: <a title="Facebook" href="https://www.facebook.com/medin.denvers.3"><img src="https://i.gifer.com/EYj8.gif" width="50" height="50" alt="Facebook" /></a>
 </address>
 
   <img src="https://media1.giphy.com/media/28NHo0bbyWzjG/source.gif" width="50" height="50">
