@@ -4,7 +4,7 @@
 <h1 style="color:blue;">Datos Personales </h1>
 <p>
 Mi nombre es Medin Denvers.
-<h2 style="background-color:Tomato;" >Realice mis estudios</h2>
+<h2 style="background-color:Tomato;" >Realice mis estudios en</h2>
 <ul style="list-style-type:disc;">
   <li>Primarios: Panama Height International Academy</li>
   <li>Secundarios: Panama Height International Academy</li>
@@ -20,7 +20,7 @@ Actualmente estudio en La Universidad Nacional de Panam&aacute; Licenciatura en 
 <address>
 </li>
 <li>Instagram:<a href="https://www.instagram.com/luxtea_18/?hl=es-la"> Medin Denvers</a></li>
-<li>Facebook: <a title="Facebook" href="https://www.facebook.com/medin.denvers.3"><img src="https://i.gifer.com/EYj8.gif" width="50" height="50" alt="Facebook" /></a>
+<li>Facebook: <a title="Facebook" href="https://www.facebook.com/medin.denvers.3"><img src="https://www.gifmaniacos.es/wp-content/uploads/2017/09/gif-facebook-gifmaniacos.es-6.gif" width="50" height="50" alt="Facebook" /></a>
 </address>
 
   <img src="https://media1.giphy.com/media/28NHo0bbyWzjG/source.gif" width="50" height="50">
